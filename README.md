@@ -39,17 +39,17 @@ Displaying things and having click events registered properly on canvas are my b
 
 ### Timeline
 
-__Tuesday__
-`Proposal approval. Pseudocoding. JS implementation.`
-__Wednesday__
-`Continue JS implementation. Work on assets`
-__Thursday__
-`Continue JS implementation. Work on assets`
-__Friday__
-`Continue JS implementation. Work on assets. Stress test.`
-__Saturday__
-`Continue JS implementation. Work on assets. Stress test.`
-__Sunday__
-`Continue JS implementation. Work on assets. Find hard stop for implementation and for assets. Stress test.`
-__Monday__
-`Polish. Submit.`
+__Tuesday__ <br>
+`Proposal approval. Pseudocoding. JS implementation.`<br>
+__Wednesday__<br>
+`Continue JS implementation. Work on assets`<br>
+__Thursday__<br>
+`Continue JS implementation. Work on assets`<br>
+__Friday__<br>
+`Continue JS implementation. Work on assets. Stress test.`<br>
+__Saturday__<br>
+`Continue JS implementation. Work on assets. Stress test.`<br>
+__Sunday__<br>
+`Continue JS implementation. Work on assets. Find hard stop for implementation and for assets. Stress test.`<br>
+__Monday__<br>
+`Polish. Submit.`<br>
