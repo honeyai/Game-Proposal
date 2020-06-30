@@ -1,41 +1,62 @@
 ### Game Proposal
 
-# TITLE TBD
-
-### Overview
-
-You're a space explorer trying to reach the final lands of your expedition. On your journey you'll be faced with trials that will challenge your luck and your likelihood you'll even reach your location. 
+# Word Smith
 
 ### Rules of the Game
 
-The player will be faced with random locations (planets) and random events in those locations that will affect your resources (depleting or adding).
+A two player game.
 
-__Resources for your ship are:__
-- Oxygen
-- Hull
-- Fuel
+The computer will select a word and display it for the players and then the players will take turns writing in the longest synonym of the displayed word that they know. 
 
-After resolving those events the ship will head to the next location. En route another random event will occur that will affect resources.
-
-__Events__
-- Combat (1 - 6 enemies with stats that scale down with each alien on screen)
-  * can be solved in two ways
-    * giving up resources
-    * fighting the enemies off
-- Trade
-- Abandoned ships
-
-This process repeats until one or more of the player's resources reach or tank under 0 (game over). 
-
-Win condition is reaching the last location. 
+The longest word wins. Scores evaluated at the end of 5 rounds
 
 ### Technical Challenges
 
-Displaying things and having click events registered properly on canvas are my biggest concerns as of yet. 
+Trying to get enough words for playability.
 
 ### Wireframe
->> sorry it's rotated I'm not sure how to fix it
-![Test Image 1](./wireframe.jpg)
+![Test Image 1](./wireframe2.jpg)
+
+### Timeline
+
+__Tuesday__ <br>
+`Proposal approval. Pseudocoding. JS implementation.`<br>
+__Wednesday__<br>
+`Continue JS implementation. Work on assets`<br>
+__Thursday__<br>
+`Continue JS implementation. Work on assets`<br>
+__Friday__<br>
+`Continue JS implementation. Work on assets. Stress test.`<br>
+__Saturday__<br>
+`Continue JS implementation. Work on assets. Stress test.`<br>
+__Sunday__<br>
+`Continue JS implementation. Work on assets. Find hard stop for implementation and for assets. Stress test.`<br>
+__Monday__<br>
+`Polish. Submit.`<br>
+
+
+# OR
+
+### Game Proposal
+
+# Mastermind
+
+### Rules of the Game
+
+The game is played using:
+
+The code maker (computer) chooses a pattern of four code pegs. 
+
+The codebreaker tries to guess the pattern, in both order and color, within eight to twelve turns. Each guess is inputted by placing a row of code pegs. Once placed, the code maker (computer) provides feedback by alerting whether or not the codebreaker got the order or the color or both correctly, but not which they got correct.
+
+Once feedback is provided, another guess is made; guesses and feedback continue to alternate until either the codebreaker guesses correctly, or twelve (or ten, or eight) incorrect guesses are made.
+
+### Technical Challenges
+
+Making the DOM display the pegs and the indicators of the code
+
+### Wireframe
+![Test Image 1](./wireframe3.jpg)
 
 ### Timeline
 
