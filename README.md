@@ -1,1 +1,1 @@
-# Game-Proposal
+# Game Proposal
